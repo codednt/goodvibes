@@ -20,7 +20,7 @@ main {
   flex-direction: column;
   width: calc(100% - 40px);
   min-height: calc(100vh - 40px);
-  padding: 20px;
+  padding: 0px;
 }
 
 .profile-image {
@@ -72,7 +72,7 @@ main {
 }
 
 .list-links {
-  margin-top: 40px;
+  margin-top: 30px;
   list-style: none;
 }
 
@@ -80,8 +80,8 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 250px;
-  height: 40px;
+  width: 270px;
+  height: 45px;
   margin-bottom: 25px;
   border: 3px solid  var(--title-color);
   box-shadow: 5px 5px var(--title-color);
